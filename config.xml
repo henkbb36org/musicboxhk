@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "nl.rabobank.groepict"
+version = "1.0.0">
+
+<name>MusicBox</name>
+
+<description>
+Raspberry Pi Spotify App
+</description>
+
+<author href="http://nt2500.bb36.org"
+email="henk@bb36.org">
+Henk Kuipers
+</author>
+
+</widget>
